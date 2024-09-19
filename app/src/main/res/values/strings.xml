@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="now">Now</string>
+    <string name="hour_by_hour_today">Today - every hour</string>
+    <string name="seven_days_ahead">7 days ahead</string>
+    <string name="loading">Loading...</string>
+    <string name="details">Details</string>
+</resources>
